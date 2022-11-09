@@ -1,0 +1,24 @@
+.menu{
+    width: 1000px;
+    height: 50px;
+    background-color:#c6299c;
+}
+
+ul {
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+}
+ 
+li {
+    list-style: none; 
+    margin: 50px;
+    display: inline;
+}
+.titulo { 
+    display: flex;
+    align-items:center;
+}
+h1{
+    color:#c6299c;
+}
